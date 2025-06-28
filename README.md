@@ -8,11 +8,19 @@ Is computer science a set of standards?
 
 Is A tone always 440 hertz?
 
+Is one hour always 3600 seconds?
+
+Is destiny always appearent?
+
 Is chaos always creative?
 
 Are questions always complete?
 
 Are inventions always deduced?
+
+Have theories been suspected?
+
+Have histories been rewritten?
 
 <!---
 InfiniteEchoes/InfiniteEchoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
